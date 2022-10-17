@@ -1,4 +1,4 @@
-# Project1-Group5
+# Cost of Living Analysis
 
 ## Team Members
 - Amar Rai
