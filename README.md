@@ -55,7 +55,11 @@ The G8 countries are not strictly the largest in the world nor the highest-incom
 ## UK, in comparison with the other G8 countries
 We decided to start our analysis by studying the different cost indexes for the G8 countries in comparison to the UK. We plotted some bar and pie charts for this.
 
-![G8 Cost of Living Index](https://user-images.githubusercontent.com/111614210/196632411-efbe5dcb-7510-48f2-a655-dfa0a4d21a6e.png)  ![G8 Local Purchasing Power Index](https://user-images.githubusercontent.com/111614210/196632502-306619bc-0918-4237-9d3a-feb7e4833871.png)   ![G8 Rent Index](https://user-images.githubusercontent.com/111614210/196632853-1d0dc64a-472b-463d-a7db-56de327e9b25.png)   ![G8 Groceries Index](https://user-images.githubusercontent.com/111614210/196632905-70aa8416-9aae-446a-b053-3663cd31053c.png)   ![G8 Restaurant Price Index](https://user-images.githubusercontent.com/111614210/196632963-3b77abb2-95ea-4a1d-aa8b-a5c85da00e0b.png)
+![image](https://user-images.githubusercontent.com/111614210/196809359-323213ea-dbea-4ca7-91a3-1df3ed849ca6.png)
+![image](https://user-images.githubusercontent.com/111614210/196809447-468e88da-b81b-476d-b8de-d64e4b830be4.png)
+![image](https://user-images.githubusercontent.com/111614210/196809606-5ca1e5a7-c841-43ae-a297-37f4f5c782dd.png)
+![image](https://user-images.githubusercontent.com/111614210/196809671-af07c706-6b3e-4530-ae97-868717f73bd7.png)
+![image](https://user-images.githubusercontent.com/111614210/196809749-801021b6-0a4d-4caa-a3bb-7e1af4d37cfc.png)
 
 As our pie charts show, Japan has the highest cost of living at 77.03 amongst the G8 and the highest groceries index at 81.31 compared to the UK which holds 69.65 and 56.58 respectively.
 
