@@ -66,31 +66,56 @@ The UK has the highest restaurant price index at 76.79 and the US has the highes
 But what stands out is that Russians have the least  indexes compared to the rest.
 
 ## The biggest impact on Cost of Living
-![G8 Cost of Living Index vs Rent Index](https://user-images.githubusercontent.com/111614210/196634153-98457bb0-d5f6-4001-b4ed-3372c5181e98.png)
-![G8 Cost of Living Index vs Groceries Index](https://user-images.githubusercontent.com/111614210/196634225-bae48727-7214-4ee9-b0cd-f921d7e72d62.png)
-![G8 Cost of Living Index vs Restaurant Price Index](https://user-images.githubusercontent.com/111614210/196634288-52405ba6-be2e-4bc3-85a2-4fa4865dbf79.png)
+![image](https://user-images.githubusercontent.com/111614210/196807114-dc412430-8db6-427b-974f-936ddb44c207.png)
+![image](https://user-images.githubusercontent.com/111614210/196807308-a1221ed1-ea70-4635-b923-2acbaf446f84.png)
+![image](https://user-images.githubusercontent.com/111614210/196807809-df1c8ae5-48d6-4954-8a68-bf700b596ba1.png)
 
 These plots are based on the index values of the G8 countries.
 
 While all the 3 indexes (Rent, Groceries and Restaurant Price) have a strong relationship with the Cost of Living index, the impact of Groceries Index on Cost of Living Index is higher.
 
-![G8_CitiesCost of Living Index_vs_Rent Index](https://user-images.githubusercontent.com/111614210/196634611-af814a52-d9fb-4f68-b132-31f2020a32f1.png)
-![G8_CitiesCost of Living Index_vs_Groceries Index](https://user-images.githubusercontent.com/111614210/196634643-4bd1f341-947d-4f43-a530-7296d5bc49a8.png)
-![G8_CitiesCost of Living Index_vs_Restaurant Price Index](https://user-images.githubusercontent.com/111614210/196634716-60794467-b4dc-49de-9bcf-9b886672d623.png)
+![image](https://user-images.githubusercontent.com/111614210/196807942-c163bd1f-e618-4791-8208-60b679493330.png)
+![image](https://user-images.githubusercontent.com/111614210/196808107-850f339c-e5da-4b5c-bd24-37565b455cb4.png)
+![image](https://user-images.githubusercontent.com/111614210/196808156-d108b700-99ac-43dd-99ee-c59b19e7bed0.png)
 
 These plots are based on the index values of the G8 cities.
 
-2) It is interesting that the Local Purchasing Power has a strong correlation with Cost of Living. Ideally, the decrease in the Local Purchasing Power causes serious negative economic consequences leading to the increase in Cost of Living![image](https://user-images.githubusercontent.com/111614210/196636726-8c01500f-614a-48.
-
-3) As expected, all the 3 indexes for Rent, Groceries and Restaurant Price have a strong impact on Cost of Living. Groceries Index has a very high impact on Cost of Living Index.![image](https://user-images.githubusercontent.com/111614210/196636814-ce808d76-3cfe-49e6-99f4-e23da67a1625.png)irm that all the 3 indexes (Rent, Groceries and Restaurant Price) have a strong relationship with the Cost of Living index but the impact of Groceries Index on Cost of Living Index is higher.
+These graphs also confirm that all the 3 indexes (Rent, Groceries and Restaurant Price) have a strong relationship with the Cost of Living index but the impact of Groceries Index on Cost of Living Index is higher.
 
 ## Local Purchasing Power Index
-![G8 Cost of Living Index vs Local Purchasing Power Index](https://user-images.githubusercontent.com/111614210/196635710-8669143b-89aa-4d8e-8572-05c2739eb202.png)
-![G8_CitiesCost of Living Index_vs_Local Purchasing Power Index](https://user-images.githubusercontent.com/111614210/196635744-6a6e1575-b2dc-48cb-a78f-9e71730e9997.png)
+![image](https://user-images.githubusercontent.com/111614210/196808576-ac91bc0b-923c-4b93-ba51-ee07391eb277.png)
+![image](https://user-images.githubusercontent.com/111614210/196808694-66002c43-0935-451c-85ed-993a7c54ebb1.png)
 
 These plots for the relationship between the Cost of Living index and LPP index values show that the relationship is strong when plotted based on country’s index value.
 
 However, when plotted by using the index values of cities, it shows that the relationship is weak.
+
+## Explanatory Data Analysis
+### Cost of Living Index
+![image](https://user-images.githubusercontent.com/111614210/196802845-ce3ff554-e7e1-49f0-9895-3e6c962760e5.png)
+
+This box plot is based on the Cost of Living Index of the G8 cities.
+
+While the distribution for UK, Canada, Germany and Italy are close to symmetric (normal distribution), that of the US, Japan, France and Russia are positively skewed (skewed right).
+
+In comparison, the cost of living in the cities in UK, US, Canada, Germany and Italy seem to be in the similar range while that of the cities in Germany and France seem to be higher and that of Russia is less.
+
+The outlier here for the UK is that of London which shows that the cost of living in London is way higher than the other major cities.
+
+The cost of living index across the major US cities is widely spread.
+
+### Local Purchasing Power Index
+![image](https://user-images.githubusercontent.com/111614210/196801618-928cc990-a742-479f-8e0a-56e9bfba5486.png)
+
+This box plot is based on Local Purchasing Power Index of the G8 cities.
+
+While the distribution for the US, UK, Canada, Germany and Italy are close to symmetric (normal distribution), that of Japan is negatively skewed (skewed left), France and Russia are positively skewed (skewed right).
+
+In comparison, the local purchasing power in the cities in UK and Canada seem to be in the similar range.
+
+The outlier here for the UK is that of Derby which shows that the local purchasing power in Derby is way higher than the other major cities.
+
+The local purchasing power index across the major cities in US and Canada are widely spread.
 
 ## Cost of Living Heatmap
 
@@ -104,10 +129,10 @@ However, when plotted by using the index values of cities, it shows that the rel
 
 3) As expected, all the 3 indexes for Rent, Groceries and Restaurant Price have a strong impact on Cost of Living. Groceries Index has a very high impact on Cost of Living Index.
 
+4) Looking at the box plots for cost of living and local purchasing power, London is the most expensive city within the UK. With the highest local purchasing power Derby would be the best place to live in. The other cities seem to be within the national range for both cost of living and local purchasing power.
+
 ## Limitations
 
 1) Numbeo uses user inputs and data from the government websites to calculate the indexes. This may not necessarily give the correct picture.
 
-2) The dataset used is from early 2020 and so may not represent the current status.
-
-3) The index values for cities and aggregate values for country have discrepancies. As per Numbeo, the data points for a county is much more than those for individual cities.
+2) The dataset used is from early 2022 and so may not represent the current status.
