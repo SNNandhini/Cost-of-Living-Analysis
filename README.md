@@ -137,7 +137,7 @@ The local purchasing power index across the major cities in US and Canada are wi
 
 ## Limitations
 
-1) Numbeo uses user inputs and data from the government websites to calculate the indexes. This may not necessarily give the correct picture.
+1) Numbeo uses user inputs and data from other authoritative sources to calculate the indexes. This may not necessarily give the correct picture.
 
 2) The dataset used is from early 2022 and so may not represent the current status.
 
