@@ -80,15 +80,34 @@ While all the 3 indexes (Rent, Groceries and Restaurant Price) have a strong rel
 
 These plots are based on the index values of the G8 cities.
 
-These graphs also confirm that all the 3 indexes (Rent, Groceries and Restaurant Price) have a strong relationship with the Cost of Living index but the impact of Groceries Index on Cost of Living Index is higher.
+2) It is interesting that the Local Purchasing Power has a strong correlation with Cost of Living. Ideally, the decrease in the Local Purchasing Power causes serious negative economic consequences leading to the increase in Cost of Living![image](https://user-images.githubusercontent.com/111614210/196636726-8c01500f-614a-48.
 
+3) As expected, all the 3 indexes for Rent, Groceries and Restaurant Price have a strong impact on Cost of Living. Groceries Index has a very high impact on Cost of Living Index.![image](https://user-images.githubusercontent.com/111614210/196636814-ce808d76-3cfe-49e6-99f4-e23da67a1625.png)irm that all the 3 indexes (Rent, Groceries and Restaurant Price) have a strong relationship with the Cost of Living index but the impact of Groceries Index on Cost of Living Index is higher.
 
+## Local Purchasing Power Index
+![G8 Cost of Living Index vs Local Purchasing Power Index](https://user-images.githubusercontent.com/111614210/196635710-8669143b-89aa-4d8e-8572-05c2739eb202.png)
+![G8_CitiesCost of Living Index_vs_Local Purchasing Power Index](https://user-images.githubusercontent.com/111614210/196635744-6a6e1575-b2dc-48cb-a78f-9e71730e9997.png)
 
+These plots for the relationship between the Cost of Living index and LPP index values show that the relationship is strong when plotted based on country’s index value.
 
+However, when plotted by using the index values of cities, it shows that the relationship is weak.
 
+## Cost of Living Heatmap
 
+![Heatmap_cost_of_living_all_cities](https://user-images.githubusercontent.com/111614210/196636197-91c5c33f-9e43-4676-bccd-380dac249601.png)
 
+## Conclusions
 
+1) The United Kingdom stands 5th in terms of Cost of Living amongst the G8 countries. However in terms of Local Purchasing Power, UK seem to be doing better than most, standing 3rd. Only Germany’s numbers are better with a lower Cost of Living (6th) and higher Local Purchasing Power (2nd).
 
+2) It is interesting that the Local Purchasing Power has a strong correlation with Cost of Living. Ideally, the decrease in the Local Purchasing Power causes serious negative economic consequences leading to the increase in Cost of Living.
 
+3) As expected, all the 3 indexes for Rent, Groceries and Restaurant Price have a strong impact on Cost of Living. Groceries Index has a very high impact on Cost of Living Index.
 
+## Limitations
+
+1) Numbeo uses user inputs and data from the government websites to calculate the indexes. This may not necessarily give the correct picture.
+
+2) The dataset used is from early 2020 and so may not represent the current status.
+
+3) The index values for cities and aggregate values for country have discrepancies. As per Numbeo, the data points for a county is much more than those for individual cities.
