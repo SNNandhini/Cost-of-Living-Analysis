@@ -23,7 +23,7 @@ Analysing Cost of Living Index statistically!
 ## Introduction
 Cost of Living is the cost of maintaining a certain standard of living. 
 
-With the global health crisis and conflicts in Ukraine, the increase in inflation and currency fluctuation are affecting international economic balances and the cost of living for each of us.
+With the global health crisis and conflicts in Ukraine, the increase in inflation and currency fluctuation are affecting international economic balances and the cost of living for each of us.(Mercer, 2022)
 
 In this project we are analysing the Cost of Living Index data with G8 countries and understand where the United Kingdom stands.
 
@@ -50,7 +50,7 @@ To make it more realistic we decided to compare the performance of UK with a sub
 
 The top 10 countries by Cost of Living Index are developing nations and their economic structure is very different from that of UK and so these cannot be compared.
 
-The G8 countries are not strictly the largest in the world nor the highest-income per capita, but they do represent the largest high-income countries. So we decided to use the G8 countries for this analysis.
+The G8 countries are not strictly the largest in the world nor the highest-income per capita, but they do represent the largest high-income countries. So we decided to use the G8 countries for this analysis.(Wikipedia, 2022)
 
 ## UK, in comparison with the other G8 countries
 We decided to start our analysis by studying the different cost indexes for the G8 countries in comparison to the UK. We plotted some bar and pie charts for this.
@@ -129,7 +129,7 @@ The local purchasing power index across the major cities in US and Canada are wi
 
 1) The United Kingdom stands 5th in terms of Cost of Living amongst the G8 countries. However in terms of Local Purchasing Power, UK seem to be doing better than most, standing 3rd. Only Germany’s numbers are better with a lower Cost of Living (6th) and higher Local Purchasing Power (2nd).
 
-2) It is interesting that the Local Purchasing Power has a strong correlation with Cost of Living. Ideally, the decrease in the Local Purchasing Power causes serious negative economic consequences leading to the increase in Cost of Living.
+2) It is interesting that the Local Purchasing Power has a strong correlation with Cost of Living. Ideally, the decrease in the Local Purchasing Power causes serious negative economic consequences leading to the increase in Cost of Living.(Hayes, 2022)
 
 3) As expected, all the 3 indexes for Rent, Groceries and Restaurant Price have a strong impact on Cost of Living. Groceries Index has a very high impact on Cost of Living Index.
 
@@ -140,3 +140,12 @@ The local purchasing power index across the major cities in US and Canada are wi
 1) Numbeo uses user inputs and data from the government websites to calculate the indexes. This may not necessarily give the correct picture.
 
 2) The dataset used is from early 2022 and so may not represent the current status.
+
+## References
+1)  Hayes, A., 2022. Investopedia. [Online] Available at: https://www.investopedia.com/terms/p/purchasingpower.asp[Accessed 16 October 2022].
+
+2)  Mercer, 2022. Mercer. [Online] Available at: https://www.mercer.com/our-thinking/career/cost-of-living.html[Accessed 15 October 2022].
+
+3)  Numbeo, 2022. Numbeo. [Online] Available at: https://www.numbeo.com/cost-of-living/cpi_explained.jsp[Accessed 16 October 2022].
+
+4) Wikipedia, 2022. Wikipedia. [Online] Available at: https://en.wikipedia.org/wiki/G8[Accessed 15 October 2022].
