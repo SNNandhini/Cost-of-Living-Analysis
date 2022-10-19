@@ -1,7 +1,4 @@
 # Cost of Living Analysis
+Analysing Cost of Index statistically!
 
-## Team Members
-- Amar Rai
-- Nandhini Nallathambi
-- Stephen Liang
-- Vivian Nnadozie
+## Introduction
