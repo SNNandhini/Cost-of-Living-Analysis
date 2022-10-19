@@ -25,3 +25,4 @@ We cleaned up the data by adding, deleting and splitting up of columns for ease 
 
 ! [image] (https://github.com/SNNandhini/Cost-of-Living-Analysis/blob/main/Images/Data%20Exploration/Bar_all_indexes_min_max.png)
 This image shows the different indexes available along with the range (min and max values for each of the indexes).
+
