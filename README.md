@@ -23,6 +23,6 @@ Both are simple datasets with columns for Rank, Country / City, Cost of Living I
 
 We cleaned up the data by adding, deleting and splitting up of columns for ease of use. We also filtered out the data based on our requirement to analyse the performance of UK with that of countries with similar economic status. See Data_Exploration_CleanUp.ipynb for details.
 
-! [image] (https://github.com/SNNandhini/Cost-of-Living-Analysis/blob/main/Images/Data%20Exploration/Bar_all_indexes_min_max.png)
+![image] (https://github.com/SNNandhini/Cost-of-Living-Analysis/blob/main/Images/Data%20Exploration/Bar_all_indexes_min_max.png)
 This image shows the different indexes available along with the range (min and max values for each of the indexes).
 
